@@ -33,4 +33,6 @@ Una vez que vemos que todo funciona subiremos nuestro docker-compose.yml a docke
 Y revisaremos que se haya subido correctamente a nuestro repositorio
 ![imagen](https://github.com/R4F31/EntregaDockerExam/blob/main/ExamenSistemas/11.PNG)
 
+https://hub.docker.com/repository/docker/rafelllull/phpmyadmin
+
 
