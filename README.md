@@ -45,7 +45,7 @@ subiremos nuestra imagen a dockerhub
 
 Y revisaremos que se haya subido correctamente a nuestro repositorio
 
-![imagen](https://github.com/R4F31/EntregaDockerExam/blob/main/ExamenSistemas/11.PNG)
+![imagen](https://github.com/R4F31/EntregaDockerExam/blob/main/ExamenSistemas/13.PNG)
 
 https://hub.docker.com/r/rafelllull/loginwebappdockercompose
 
